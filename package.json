@@ -1,9 +1,6 @@
 {
   "name": "@uniswap/interface",
   "description": "Uniswap Interface",
-  "engines": {
-    "node": "18.x"
-  },
   "homepage": ".",
   "private": true,
   "devDependencies": {
